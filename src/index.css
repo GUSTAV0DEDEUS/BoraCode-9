@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+  ---text-primary: #0F172A;
+  ---surface-primary: #fff;
+  ---bg-color: #F8FAFC;
+}
+
+h2{
+  font-weight: 600;
+  font-size: 2rem;
+  color: var(---text-primary);
+}
+
+input[type="text"]{
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(---text-primary);
+}
