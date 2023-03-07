@@ -1,3 +1,6 @@
+//https://www.youtube.com/watch?v=RF57yDglDfE video sobre chartJS
+//https://www.youtube.com/watch?v=hqNvvMlJuww video usando
+
 import styles from './styles.module.css'
 
 function HomePage(){

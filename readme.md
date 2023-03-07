@@ -6,7 +6,6 @@
 </div>
 <a href="https://gustav0dedeus.github.io/BoraCode-8/"><img  src="./.github/gif.gif" width="100%"></a>
 
-
 ## Documentação
   - <a href="#projeto">Projeto</a>
   - <a href="#diario"> Diário de bordo </a>
